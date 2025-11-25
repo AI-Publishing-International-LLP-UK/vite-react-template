@@ -1,1 +1,1 @@
-# vite-react-template
+# Free AI at api.airforce
